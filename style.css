@@ -158,8 +158,8 @@
     background-color: rgb(73, 69, 69);
 }
 .social img{
-    width: 150px;
-    height: 150px;
+    width: 80px;
+    height: 80px;
 }
 @media (max-width: 798px){
     .showcase, .showcase header{
